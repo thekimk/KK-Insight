@@ -3,6 +3,9 @@
 ---
 ### Contents
 - [[1편]_미래가_불안합니다](https://gist.github.com/cheonbi/7a2a8e8ff03535c819c42a58bcefe120)
+- [[2편]_무엇을_해야_하나요](https://gist.github.com/cheonbi/c324af7d12be19f985d3e5c8b8c122bf)
+- [[3편]_어떻게_해야_하나요](https://gist.github.com/cheonbi/44ea914c896fe443fa9a0180b5620bcc)
+- [[4편]_데이터_융합_어떤_미래](https://gist.github.com/cheonbi/d05bde3163c49373ff57d26804a29341)
 ---
 
 안녕하십니까 `김경원 교수`입니다.    
