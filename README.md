@@ -9,6 +9,8 @@
 - [[4편]_데이터_융합_어떤_미래](https://gist.github.com/thekimk/d05bde3163c49373ff57d26804a29341)
 ---
 
+[![인생의 우선순위](https://img.youtube.com/vi/CTCJGatqhyM/0.jpg)](https://www.youtube.com/watch?v=CTCJGatqhyM)
+
 안녕하십니까 `김경원 교수`입니다.    
 그동안 여러분들과 나눈 대화들, 그리고 앞으로 나눌 대화들을 일부가 아닌 많은 분들께 공유드리는 공간이 있으면 좋을 것 같아, 이를 위한 `크크인싸이트` 저장소(Repository)를 오픈하였습니다.        
 각 글마다 하단에 `코멘트` 작성을 통해 함께 피드백을 나누며 서로 변화를 통해 배우며 미래를 함께 걸어갈 수 있으면 좋겠습니다.    
