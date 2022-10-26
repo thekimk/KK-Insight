@@ -10,6 +10,7 @@
 ---
 
 [![인생의 우선순위](https://img.youtube.com/vi/CTCJGatqhyM/0.jpg)](https://www.youtube.com/watch?v=CTCJGatqhyM)
+(가볍게 위 영상시청부터 해볼까요? 클릭!!!)
 
 안녕하십니까 `김경원 교수`입니다.    
 그동안 여러분들과 나눈 대화들, 그리고 앞으로 나눌 대화들을 일부가 아닌 많은 분들께 공유드리는 공간이 있으면 좋을 것 같아, 이를 위한 `크크인싸이트` 저장소(Repository)를 오픈하였습니다.        
