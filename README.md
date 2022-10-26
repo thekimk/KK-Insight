@@ -1,5 +1,8 @@
 ## 🌞 크크인싸이트(KKInsight)
 
+[![인생의 우선순위](https://img.youtube.com/vi/CTCJGatqhyM/0.jpg)](https://www.youtube.com/watch?v=CTCJGatqhyM)     
+(가볍게 위 영상시청부터 해볼까요? 클릭!!!)
+
 ---
 ### ✔️ Contents:
 > 각 편을 누르면 연결된 링크에서 내용확인 가능하며 각 글 하단에 `코멘트` 자유 추가 가능
@@ -8,9 +11,6 @@
 - [[3편]_어떻게_해야_하나요](https://gist.github.com/thekimk/44ea914c896fe443fa9a0180b5620bcc)
 - [[4편]_데이터_융합_어떤_미래](https://gist.github.com/thekimk/d05bde3163c49373ff57d26804a29341)
 ---
-
-[![인생의 우선순위](https://img.youtube.com/vi/CTCJGatqhyM/0.jpg)](https://www.youtube.com/watch?v=CTCJGatqhyM)
-(가볍게 위 영상시청부터 해볼까요? 클릭!!!)
 
 안녕하십니까 `김경원 교수`입니다.    
 그동안 여러분들과 나눈 대화들, 그리고 앞으로 나눌 대화들을 일부가 아닌 많은 분들께 공유드리는 공간이 있으면 좋을 것 같아, 이를 위한 `크크인싸이트` 저장소(Repository)를 오픈하였습니다.        
