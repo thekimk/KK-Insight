@@ -1,7 +1,7 @@
 ## 🌞 크크인싸이트(KKInsight)
 
 [![인생의 우선순위](https://img.youtube.com/vi/CTCJGatqhyM/0.jpg)](https://www.youtube.com/watch?v=CTCJGatqhyM)     
-(가볍게 위 영상시청부터 해볼까요? 클릭!!!)
+(가볍게 위 영상 시청부터 해볼까요? 클릭!!!)
 
 ---
 ### ✔️ Contents:
