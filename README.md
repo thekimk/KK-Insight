@@ -10,6 +10,7 @@
 - [[2편]_무엇을_해야_하나요](https://gist.github.com/thekimk/c324af7d12be19f985d3e5c8b8c122bf)
 - [[3편]_어떻게_해야_하나요](https://gist.github.com/thekimk/44ea914c896fe443fa9a0180b5620bcc)
 - [[4편]_데이터융합_어떤미래](https://gist.github.com/thekimk/d05bde3163c49373ff57d26804a29341)
+- [[5편]_비전공자_파이썬_데이터분석](https://gist.github.com/thekimk/afed2cdb0df8cf9a2dbe864e069595d4)
 ---
 
 안녕하십니까 `김경원 교수`입니다.    
